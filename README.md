@@ -72,6 +72,18 @@ Here are some ideas to get you started:
 </details>
 
 #
+<details>
+<summary><h3>Channels That I Like to watch</h3></summary>
+
+* https://www.youtube.com/c/TsodingDaily - Good C, C++, Rust programmer
+* https://www.youtube.com/c/beneater - Low level stuff, bits and bytes, building computers on breadboards
+* https://www.youtube.com/@javidx9 - C++ programming
+* https://www.youtube.com/@greatscottlab - Analog & Digital Electronics projects
+
+
+</details>
+
+#
 
 <details>
 <summary><h3> I love good memes </h3></summary>
